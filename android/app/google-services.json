@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "969774696222",
+    "project_id": "studyroomnew-cf01d",
+    "storage_bucket": "studyroomnew-cf01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969774696222:android:53e18f1b6d9e6d9b9f2b0f",
+        "android_client_info": {
+          "package_name": "com.studyroom.studyroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969774696222-im7cqjcu3aj8e401l51n9igb6b8hiftl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrInvkTdHXOdAKJd_E9cdh1XuwbXJhsdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969774696222-im7cqjcu3aj8e401l51n9igb6b8hiftl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969774696222-2nfts2p2qttffvo1hppvutsb4i398l4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.studyroom.studyroom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
